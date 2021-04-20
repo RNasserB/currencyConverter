@@ -8,4 +8,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+
+    fun soma(num1: Int, num2: Int) {
+        var somei = num1 + num2
+        println(somei)
+    }
+
+
 }
