@@ -3,4 +3,5 @@
     <string name="e_mail">E-mail</string>
     <string name="login">Login</string>
     <string name="username">Username</string>
+    <string name="converter">Converter</string>
 </resources>
